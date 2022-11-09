@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Casco Negro",
+    "quantity": 6,
+    "price": 78900,
+    "size": "M-L",
+    "brand": "Align",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_775967-MCO49923900718_052022-O.jpg",
+    "country": "Autralia",
+    "category": "Protección"
+  },
+  {
+    "name": "Casco Rojo",
+    "quantity": 6,
+    "price": 72100,
+    "size": "L",
+    "brand": "Align",
+    "image": "https://huilabike.viveshops.co/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMFRKTHc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4d268e0b8086c2780706729c41da728fc659e13d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9TY21WemFYcGxYM1J2WDJacGRGc0hhUUlnQTJrQ0lBTTZER052Ym5abGNuUkpJZ2hxY0djR09nWkZWRG9LYzJGMlpYSjdDRG9NY1hWaGJHbDBlV2xmT2dwemRISnBjRlE2RDJKaFkydG5jbTkxYm1SYkNHa0IvMmtCLzJrQi93PT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--f9b6205701877dad933126b17f2a1a57fbbba520/60819-101.jpg?locale=es",
+    "country": "Autralia",
+    "category": "Protección"
+  },
+  {
+    "name": "Rodilleras",
+    "quantity": 6,
+    "price": 32000,
+    "size": "L",
+    "brand": "WOSAWE",
+    "image": "https://sjpps.viveshops.co/rails/ve",
+    "country": "EE.UU",
+    "category": "Protección"
+  },
+  {
+    "name": "Luces",
+    "quantity": 6,
+    "price": 93800,
+    "size": "L",
+    "brand": "UZOPI",
+    "image": "https://m.media-amazon.com/images/I/71PDvB1c62L._AC_SX425_.jpg",
+    "country": "Colombia",
+    "category": "Accesorios"
+  },
+  {
+    "name": "Llantas",
+    "quantity": 6,
+    "price": 93800,
+    "size": "rin 24",
+    "brand": "CICLO FRAME",
+    "image": "https://cicloframe.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeHh6aUE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bfdd98a94bbfa798b358f999e149df3e490ed90c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9TY21WemFYcGxYM1J2WDJacGRGc0hhUUlnQTJrQ0lBTTZER052Ym5abGNuUkpJZ2hxY0djR09nWkZWRG9LYzJGMlpYSjdDRG9NY1hWaGJHbDBlV2xmT2dwemRISnBjRlE2RDJKaFkydG5jbTkxYm1SYkNHa0IvMmtCLzJrQi93PT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--f9b6205701877dad933126b17f2a1a57fbbba520/Captura%20de%20pantalla%202021-09-24%20104504.jpg?locale=es",
+    "country": "Colombia",
+    "category": "Accesorios"
+  }
+]
