@@ -7,10 +7,10 @@ export const databaseProviders = [
     useFactory: async () => {
       const dataSource = new DataSource({
         type: 'mysql',
-        host: '127.0.0.1',
+        host: 'db',
         port: 3306,
-        username: 'root',
-        password: '1234',
+        username: 'user',
+        password: 'Prueba+1234',
         database: 'pets',
         entities: [Pet],
         synchronize: true,
